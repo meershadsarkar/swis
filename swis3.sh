@@ -146,4 +146,3 @@ npx hardhat run scripts/mint.js --network swisstronik
 echo "NFT minted."
 
 echo "Done"
-chmod +x swis3.sh && ./swis3.sh
